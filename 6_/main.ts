@@ -1,0 +1,6 @@
+ let whitespaceName = "\n\t Khadija Kareem \n\t";
+console.log(whitespaceName);
+
+ let withoutwhitespaceName = whitespaceName.trim();
+
+ console.log(withoutwhitespaceName);
